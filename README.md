@@ -10,5 +10,5 @@ For more instructions, see our publications here: <URL>
 **GUI application to set up the feedback system**
   - Interface.py
 
-**Installation options file for VisualStudio**
+**Installation options for VisualStudio**
   - vsconfig
