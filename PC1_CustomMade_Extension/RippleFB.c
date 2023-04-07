@@ -1,3 +1,11 @@
+/*
+
+Copyright (c) 2023, Department of Pharmacology, Graduate School of Pharmaceutical Sciences, Tohoku University.
+All Rights Reserved.
+
+*/
+
+
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
