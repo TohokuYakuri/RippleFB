@@ -1,4 +1,4 @@
-# Program files for manipulating SWR oscillations
+# Program files for closed-loop feedback stimulation
 Please download several files below.
 For more instructions, see our publications here: <URL>
 ## PC1 (Cerebus PC) 
